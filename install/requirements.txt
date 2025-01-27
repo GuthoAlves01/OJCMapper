@@ -1,0 +1,5 @@
+future==1.0.0
+Pillow==6.2.2
+PyInstaller==3.2.1
+pywin32==228
+tk==0.1.0
